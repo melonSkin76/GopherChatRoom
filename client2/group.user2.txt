@@ -1,0 +1,21 @@
+REGISTER fafa 234
+DELAY 1
+LOGIN fafa 234
+DELAY 1
+ADDGROUP EnglishClub
+DELAY 1
+JOINGROUP EnglishClub
+DELAY 1
+SENDGROUP EnglishClub Hello group members!
+DELAY 1
+LEAVEGROUP EnglishClub
+DELAY 1
+SENDGROUP EnglishClub Bye!
+DELAY 1
+RMGROUP EnglishClub
+DELAY 1
+SENDGROUP EnglishClub Check!
+DELAY 1
+JOINGROUP EnglishClub
+DELAY 1
+DELAY 999
